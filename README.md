@@ -10,4 +10,4 @@ Project lien
 ex: http://udacity-project2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://template.pro/wp-content/uploads/2015/11/PlaceIMG.jpg
 
 lien github : 
-2. 1. [Lien elastic bean](https://github.com/Meshak-okonda/image-filter-starter-code)
+2. 1. [Lien Git hub](https://github.com/Meshak-okonda/image-filter-starter-code)
